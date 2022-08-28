@@ -8,4 +8,6 @@ How to use
 3. In Lobby press F2 to load
 4. Have fun!
 
+If you get any errors contact Renox#9999 on Discord and I help you
+
 educational purposes only!

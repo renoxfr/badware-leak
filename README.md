@@ -7,3 +7,5 @@ How to use
 2. Launch Fortnite
 3. In Lobby press F2 to load
 4. Have fun!
+
+educational purposes only!
